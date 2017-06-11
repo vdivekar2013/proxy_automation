@@ -1,0 +1,5 @@
+ZipFile=./input/test.zip
+ProxyZipBaseName=Proxy
+NoOfProxies=10
+ProxyStart=1
+OutputFolder=./output
